@@ -2,6 +2,7 @@
 + <a href="https://wellbell.tistory.com/43">Github 잔디밭 심어지지 않은 현상에서 email 계정 바꾸기</a>
 
 ### JavaScript
++ <a href="https://dawonny.tistory.com/374">JavaScript ES6 문법 비구조화 할당</a>
 
 ### React
 + <a href="https://junghyeonsu.tistory.com/277">Webpack과 Babel 사용하는이유</a>
