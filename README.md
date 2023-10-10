@@ -3,6 +3,7 @@
 
 ### JavaScript
 + <a href="https://dawonny.tistory.com/374">JavaScript ES6 문법 비구조화 할당</a>
++ <a href="https://webruden.tistory.com/1031">자바스크립트 super 부모 객체의 함수 호출</a>
 
 ### React
 + <a href="https://junghyeonsu.tistory.com/277">Webpack과 Babel 사용하는이유</a>
