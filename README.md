@@ -18,6 +18,4 @@
 
 ### MySQL
 
-### Coding Test
-
 ### Node.js 
