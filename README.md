@@ -8,6 +8,7 @@
 + <a href="https://velog.io/@party3205/JavaScript%EC%8A%A4%EC%BD%94%ED%94%84%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90">JavaScript 스코프 차이</a>
 + <a href="https://yoo11052.tistory.com/154">JavaScript 클로저</a>
 + <a href="https://dkrnfls.tistory.com/262">JavaScript 실행 컨텍스트</a>
++ <a href="https://5kdk.tistory.com/2">reduce 함수란?</a>
 
 ### React
 + <a href="https://junghyeonsu.tistory.com/277">Webpack과 Babel 사용하는이유</a>
