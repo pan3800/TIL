@@ -17,6 +17,7 @@
 + <a href="https://react.vlpt.us/basic/05-props.html">리액트 props 컴포넌트 전달</a>
 + <a href="https://velog.io/@sky/React-ComponentDidcatch">ComponentDidCatch 함수를 이용해서 에러잡아내기</a>
 + <a href="https://velog.io/@minbr0ther/React.js-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4life-cycle-%EC%88%9C%EC%84%9C-%EC%97%AD%ED%95%A0">React 라이프사이클 생명주기 메소드</a>
++<a href="https://dreamogu59.tistory.com/122">useMemo 사용방법</a>
 
 ### MySQL
 
