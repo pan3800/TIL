@@ -10,6 +10,7 @@
 + <a href="https://yoo11052.tistory.com/154">JavaScript 클로저</a>
 + <a href="https://dkrnfls.tistory.com/262">JavaScript 실행 컨텍스트</a>
 + <a href="https://5kdk.tistory.com/2">reduce 함수란?</a>
++ <a href="https://inpa.tistory.com/entry/CS-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-%EC%9D%BC%EA%B8%89-%EA%B0%9D%EC%B2%B4first-class-object">JavaScript 일급객체란?</a>
 
 ### React
 + <a href="https://junghyeonsu.tistory.com/277">Webpack과 Babel 사용하는이유</a>
