@@ -35,6 +35,9 @@
 
 ### MySQL
 
+### Data structure
++ <a href="https://tmdrnr96.tistory.com/28">Stack 무엇이고 화면에서 어떻게 동작하는가?</a>
+
 ### Node.js 
 + <a href="https://www.daleseo.com/js-dotenv/">Node.js dotenv 환경변수저장 및 불러오기</a>
 + <a href="https://hanamon.kr/nodejs-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/">Node.js 개념 및 사용이유</a>
