@@ -15,7 +15,7 @@
 + <a href="">파이썬이란 무엇인가?</a>
 
 
-### Data structure
+### Data structure & Algorithm
 + <a href="https://tmdrnr96.tistory.com/28">Stack 무엇이고 화면에서 어떻게 동작하는가?</a>
 
 ### Network
