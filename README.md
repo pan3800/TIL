@@ -27,6 +27,7 @@
 
 ### Swift
 + <a href="">Swift Class는 무엇인가?</a>
++ <a href="https://github.com/pan3800/TIL/blob/main/iOS/Swift/%EC%BA%A1%EC%8A%90%ED%99%94.md">캡슐화 개념</a>
 
 
 
